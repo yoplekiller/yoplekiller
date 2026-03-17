@@ -1,21 +1,10 @@
-# 임재민 | QA Engineer
+# 👋 Hi, I'm Jaemin Lim
 
-QA Engineer focused on web, app, and test automation.
+## 💼 QA Engineer focused on quality and test automation
 
-## Skills
-- Python
-- Selenium
-- Playwright
-- Appium
-- API Testing
-- Postman
-- Pytest
-
-## Portfolio
-- QA Portfolio: [링크]
-- GitHub Projects: [링크]
-
-## Interested In
-- Test Automation
-- UI / API Testing
-- QA Process Improvement
+- 🔎 Experienced in web, app, and API testing
+- 🧪 Interested in test automation and quality improvement
+- 🐍 Currently learning Python, Pytest, Playwright, and Appium
+- 🚀 Building QA portfolio projects based on real user flows
+- 🛠️ Working on practical test cases, automation structure, and bug analysis
+- 📚 Continuously studying QA process, automation, and collaboration
