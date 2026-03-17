@@ -104,9 +104,8 @@
 
 ## 🔗 Links
 
-- Portfolio: 여기에 노션 링크
-- GitHub: 여기에 GitHub 링크
-- LinkedIn: 여기에 LinkedIn 링크
+- Portfolio: [Notion](https://www.notion.so/QA-2b0f88268610806aa40bfb0702a19355?source=copy_link)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/%EC%9E%AC%EB%AF%BC-%EC%9E%84-648b912ba/)
 
 ---
 
