@@ -37,7 +37,7 @@
 - 테스트 코드 구조화 및 유지보수성 개선
 
 ### 🔌 API & Data
-- Postman / Swagger 기반 API 테스트
+- Postman 기반 API 테스트
 - 요청/응답 검증
 - 상태 코드 / 예외 케이스 확인
 - 기본 SQL 확인 및 데이터 검증
@@ -91,14 +91,6 @@
 **Collaboration**
 `Jira` `Confluence` `Slack` `Git` `GitHub`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true" alt="github stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact" alt="top langs" height="160"/>
-</p>
 
 ---
 
